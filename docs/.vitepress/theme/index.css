@@ -1,0 +1,27 @@
+/* .vitepress/theme/custom.css */
+:root {
+  --vp-c-brand-1: #646cff;
+  --vp-c-brand-2: #747bff;
+}
+
+/* 線の色 */
+:root {
+  --vp-c-border: #c2c2c4;
+  --vp-c-divider: #e2e2e3;
+  --vp-c-gutter: #e2e2e3;
+}
+
+/* テキストの色 */
+:root {
+  --vp-c-text-1: rgb(0, 0, 0);
+  --vp-c-text-2: rgba(0, 0, 255, 0.78);
+  --vp-c-text-3: rgba(0, 0, 255, 0.56);
+}
+
+/* ボタンの色 */
+:root {
+  --vp-c-default-1: #646cff;
+  --vp-c-default-2: #646cff;
+  --vp-c-default-3: #646cff;
+  --vp-c-default-soft: #646cff;
+}
