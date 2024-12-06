@@ -1,6 +1,6 @@
 # ハッカソンで破産しかけた話
 
-### こちらの記事は 2024/05 の [Shinonome テックブログ](https://blog.shinonome.io/dong-jing/)を移管しました。
+### こちらの記事は 2024/12 の [Shinonome テックブログ](https://blog.shinonome.io/dong-jing/)を移管しました。
 
 みなさんこんにちは！
 
