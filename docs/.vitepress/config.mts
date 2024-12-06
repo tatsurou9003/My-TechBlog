@@ -3,6 +3,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "tatsurou9003のテックブログ",
   description: "しがないエンジニアのメモ",
+  base: "/My-TechBlog/",
   themeConfig: {
     sidebar: {
       "/": [
