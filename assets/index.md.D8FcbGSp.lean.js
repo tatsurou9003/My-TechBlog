@@ -1,1 +1,0 @@
-import{_ as a,c as e,o as r,a2 as t}from"./chunks/framework.BLHWSx9w.js";const f=JSON.parse('{"title":"まずは簡単な挨拶","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),o={name:"index.md"},n=t("",12),h=[n];function l(i,s,d,c,u,_){return r(),e("div",null,h)}const m=a(o,[["render",l]]);export{f as __pageData,m as default};

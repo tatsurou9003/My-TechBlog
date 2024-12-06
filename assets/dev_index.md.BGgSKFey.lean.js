@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a2 as o}from"./chunks/framework.CbpHkjtc.js";const m=JSON.parse('{"title":"記事一覧","description":"","frontmatter":{},"headers":[],"relativePath":"dev/index.md","filePath":"dev/index.md"}'),r={name:"dev/index.md"},d=o("",6),c=[d];function h(n,_,l,s,p,i){return a(),t("div",null,c)}const T=e(r,[["render",h]]);export{m as __pageData,T as default};

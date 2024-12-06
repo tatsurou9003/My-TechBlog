@@ -1,1 +1,0 @@
-import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.BLHWSx9w.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"dev/boto3.md","filePath":"dev/boto3.md"}'),t={name:"dev/boto3.md"},h=n("",29),p=[h];function l(k,e,E,r,d,o){return a(),i("div",null,p)}const F=s(t,[["render",l]]);export{y as __pageData,F as default};
