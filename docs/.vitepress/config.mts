@@ -7,16 +7,22 @@ export default defineConfig({
     sidebar: {
       "/": [
         {
-          text: "トップページ",
-          items: [{ text: "技術", link: "/dev/" }],
+          text: "自己紹介",
+          items: [{ text: "記事", link: "/dev/" }],
         },
       ],
       "/dev/": [
         {
           text: "技術ブログ",
           items: [
-            { text: "dev1 blog", link: "/dev/dev1" },
-            { text: "dev2 blog", link: "/dev/dev2" },
+            {
+              text: "ハッカソンで破産しかけた",
+              link: "/dev/flutter-hackathon",
+            },
+            { text: "CDKのテスト", link: "/dev/cdk-test" },
+            { text: "ハッカソンでAWS Bedrock使った", link: "/dev/bedrock" },
+            { text: "実務でAWS SDK使った", link: "/dev/boto3" },
+            { text: "ロボホンと遊ぼう", link: "/dev/robo-phone" },
           ],
         },
       ],
